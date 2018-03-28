@@ -59,3 +59,8 @@ typings/
 
 # next.js build output
 .next
+
+# Arquivos gerados (Krpano)
+tour.xml
+tour_modificado.xml
+scenes.json
