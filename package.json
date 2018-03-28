@@ -1,0 +1,23 @@
+{
+  "name": "krpano-tools-vtour-xml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "xml2js": "^0.4.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexishida/krpano-tools-vtour-xml.git"
+  },
+  "author": "Alex Ishida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexishida/krpano-tools-vtour-xml/issues"
+  },
+  "homepage": "https://github.com/alexishida/krpano-tools-vtour-xml#readme"
+}
