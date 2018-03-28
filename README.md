@@ -1,7 +1,7 @@
 # Welcome to krpano-tools-vtour-xml
 
 This project is used to rename **krpano tour.xml** scenes and generate texts hotspots based in hotspots existents.
-Made by me for my own use.
+Made by me by my own use.
 
 **Feel free to contribute**
 
@@ -16,7 +16,7 @@ In project folder execute:
 
 Copy `tour.xml` into root project folder.
 
-### 1 - Generate scenes.json execute the command bellow:
+### 1 - Generate scenes.json with the command bellow:
 
 	 $ node scenes.js e
 		
