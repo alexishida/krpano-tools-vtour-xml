@@ -43,7 +43,7 @@ This command generate `tour_modificado.xml` and keep the original file `tour.xml
 ## Contact
 Any questions or suggestions contact me.
 
-**Twiter:** @alexishida
+**Twitter:** @alexishida
 
 **Telegram:** @alexishida
 
