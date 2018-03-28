@@ -2,6 +2,7 @@
 
 This project is used to rename **krpano tour.xml** scenes and generate texts hotspots based in hotspots existents.
 Made by me for my own use.
+
 **Feel free to contribute**
 
 ## Install dependences
