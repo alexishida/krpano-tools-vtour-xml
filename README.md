@@ -1,7 +1,7 @@
 # Welcome to krpano-tools-vtour-xml
 
 This project is used to rename **krpano tour.xml** scenes and generate texts hotspots based in hotspots existents.
-Made by me by my own use.
+Made by my own.
 
 **Feel free to contribute**
 
