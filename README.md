@@ -44,5 +44,7 @@ This command generate `tour_modificado.xml` and keep the original file `tour.xml
 Any questions or suggestions contact me.
 
 **Twiter:** @alexishida
+
 **Telegram:** @alexishida
+
 **E-mail:** alexishida@gmail.com
