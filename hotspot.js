@@ -76,7 +76,7 @@ function addHotspotText(name_hotspot, texto, ath, atv) {
             ath: ath,
             atv: atv,
             html: texto,
-            css: 'font-family:Arial; font-weight: bolder; padding: 5px; font-size:20px; color:0xFFFFFF;',
+            css: 'font-family:Arial; font-weight: bolder; padding: 5px; font-size:20px; color:0xFFFFFF; text-align:center;',
             wordwrap: 'true',
             bg: 'true',
             bgcolor: '#000000',
