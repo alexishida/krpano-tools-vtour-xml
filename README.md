@@ -42,7 +42,7 @@ This command generate `tour_modificado.xml` and keep the original file `tour.xml
 This command generate `tour_modificado.xml` and keep the original file `tour.xml` .
 
 ## Tips
-put &lt;br&gt; to use <br> into xml code.
+put `&lt;br&gt;` to use `<br>` into xml code.
 
 ## Contact
 Any questions or suggestions contact me.
